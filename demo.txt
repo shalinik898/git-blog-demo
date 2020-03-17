@@ -1,5 +1,7 @@
 Initial Content
 --------------------
-1st commit
 Adding more content
 --------------------
+New branch parallel to master
+from test Branch
+-------------------
